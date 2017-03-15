@@ -1,0 +1,91 @@
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.dll
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.xml
+I:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+I:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+I:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.dll
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.xml
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+H:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.dll
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.xml
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+E:\PRESENT\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\bin\Debug\Priority Queue.xml
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\論文\BikeSharingSystem\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+D:\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+D:\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+D:\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+D:\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+F:\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+F:\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+F:\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+F:\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Priority Queue.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Priority Queue.xml
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+F:\BikeSaring20170311\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+F:\BikeSaring20170311\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+F:\BikeSaring20170311\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+F:\BikeSaring20170311\BikeSharingSystem\bin\Debug\Priority Queue.dll
+F:\BikeSaring20170311\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+F:\BikeSaring20170311\BikeSharingSystem\bin\Debug\Priority Queue.xml
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+F:\BikeSaring20170311\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BikeSaring\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+C:\Users\user\Desktop\BikeSaring\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\BikeSaring\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\BikeSaring\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
