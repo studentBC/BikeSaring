@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe.config
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.exe
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\BikeSharingSystem.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Priority Queue.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\TeeChart.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Priority Queue.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Priority Queue.xml
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\TeeChart.xml
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.MainForm.resources
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.Properties.Resources.resources
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\obj\Debug\BikeSharingSystem.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\PommaLabs.Thrower.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.Data.Common.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.IO.FileSystem.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Troschuetz.Random.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\PommaLabs.Thrower.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\PommaLabs.Thrower.xml
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Troschuetz.Random.pdb
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Troschuetz.Random.xml
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\論文\精進測試版\BikeSaring20170208\BikeSharingSystem\bin\Debug\Newtonsoft.Json.xml
